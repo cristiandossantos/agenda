@@ -12,7 +12,7 @@ and open the template in the editor.
     <body>
         <?php
         
-        echo "Olá";
+        echo "Olá teste";
         $nome = readline("Digite seu nome:: ");
         ?>
     </body>
