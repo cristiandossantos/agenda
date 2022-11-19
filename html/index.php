@@ -13,7 +13,7 @@ and open the template in the editor.
         <?php
         
         echo "Olá";
-        $nome = readline("Digite seu nome: ");
+        $nome = readline("Digite seu nome:: ");
         ?>
     </body>
 </html>
